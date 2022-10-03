@@ -207,8 +207,8 @@ public class BookController {
 
 	}
 	
-	
-	 private static HttpURLConnection con;
+//	
+//	 private static HttpURLConnection con;
 //	@GetMapping("/getHttpRequest")
 //    public static String abc(String[] args) throws IOException {
 //
@@ -317,7 +317,7 @@ public class BookController {
 //            con.disconnect();
 //        }
 //    }
-	
+//	
 	
 //	
 //	@PostMapping("/postLinkedIn")
